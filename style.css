@@ -27,7 +27,7 @@ body {
     width: 615px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 45px;
 }
 
 .apresentacao__conteudo__titulo {
