@@ -49,14 +49,25 @@ body {
     /*text-align: justify;*/
 }
 
+.apresentacao__conteudo__subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+}
+
+.apresentacao__conteudo__topico {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+}
+
 .titulo-destaque {
     color: #22d4fd;
 }
 
 .apresentacao__conteudo__texto {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 400;
+    text-align: justify;
 }
 
 .apresentacao__links {
@@ -95,7 +106,7 @@ body {
 
 .apresentacao__links__link:hover {
     transition: 250ms;
-    transform: scale(1.05);
+    transform: scale(1.025);
     background-color: #272727;
     border-color: #f5f5dc;
 }
