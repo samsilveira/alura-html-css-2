@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+::selection {
+    background-color: #27f4a9;
+    color: #404543;
+}
+
 body {
     /* height: 100vh; */
     box-sizing: border-box;
