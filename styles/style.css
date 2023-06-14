@@ -64,6 +64,15 @@ body {
     font-size: 22px;
 }
 
+.apresentacao__conteudo__subtopico {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background: #098fad;
+    color: #f6f6f6;
+    padding: 6px;
+    border-radius: 4px;
+}
+
 .titulo-destaque {
     color: #22d4fd;
 }
